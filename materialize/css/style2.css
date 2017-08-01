@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+body {
+
+background-color: #fbe9e7;
+}
+
+.logo {
+	height: 80px;
+	width: 200px;
+	background-color: grey;
+}
+
+
+.item {
+height: 20px;
+background-color: grey;
+}
+
+.little_link {
+height: 20px;
+background-color: #607d8b;
+margin-left: 20px;
+
+}
+
+.img1_2 {
+height: 150px;
+background-color: grey;
+margin-top: 10px;
+}
+
+.column_navigation {
+height: 630px;
+background-color: grey;	
+}
